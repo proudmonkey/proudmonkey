@@ -5,7 +5,7 @@ I'm Vince and I work as a Software Engineer in a reasearch and development compa
 <a href="https://www.codeproject.com/Members/ProudMonkey"><img alt="CPMVP logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/common/icn-MVP-64.png" /> </a> 
 <a href="https://www.codeproject.com/Members/ProudMonkey"><img alt="CPMVA logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/Common/icn-MVA-64.png" /> </a> 
 <a href="https://www.codeproject.com/Members/ProudMonkey"><img alt="CPMVE logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/Common/icn-MVE-64.png" /> 
-<a href="https://www.c-sharpcorner.com/members/vincent-maverick-durano"><img alt="CSHARPCORNER logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/common/CSharpCornerMVP.png" width="90" height="60" /> </a> <img alt="NETFOUNDATION logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/common/1200px-.NET_Foundation_Logo.svg.png" width="60" height="60p" />
+<a href="https://www.c-sharpcorner.com/members/vincent-maverick-durano"><img alt="CSHARPCORNER logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/common/CSharpCornerMVP.png" width="90" height="60" /> </a> <img alt="NETFOUNDATION logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/common/1200px-.NET_Foundation_Logo.svg.png" width="60" height="60p" /> <a href="https://vmsdurano.com"><img alt="PROUDMONKEY logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/common/proud_monkey_square.png" width="60" height="60" /> </a>
 
 
 - 🔭 I’m currently working on a new open-source project template for ASP.NET Core APIs. Stay tuned!
