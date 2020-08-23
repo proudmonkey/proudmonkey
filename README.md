@@ -16,3 +16,9 @@ I'm Vince and I work as a Software Engineer in a reasearch and development compa
 - :link: Let's connect on [linkedin](https://www.linkedin.com/in/vmsdurano/)
 - :tv: Subscribe to my youtube [channel](https://www.youtube.com/channel/UCuabaYm8QH4b1MAclaRp-3Q)
 
+:books: Books written:
+* [Understanding Game Application Development with Xamarin.Forms and ASP.NET](https://www.apress.com/us/book/9781484242636)
+* [Dockerizing ASP.NET Core and Blazor Applications on Mac](https://www.c-sharpcorner.com/ebooks/dockerizing-asp-net-core-and-blazor-applications-on-mac)
+* [ASP.NET MVC 5- A Beginner's Guide](https://www.c-sharpcorner.com/ebooks/asp-net-mvc-5-a-beginner-s-guide)
+* [ASP.NET GridView Control Pocket Guide](https://www.c-sharpcorner.com/ebooks/asp-dot-net-gridview-control-pocket-guide)
+
