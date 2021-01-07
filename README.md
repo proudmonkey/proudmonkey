@@ -9,7 +9,7 @@ I'm Vince and I work as a Software Engineer in a research and development compan
 
 
 - 🔭 I’m currently working on a new open-source project template for ASP.NET Core APIs. Stay tuned!
-- :blue_book: The book that I coauthored is out and is already available on Amazon and Packt. Check it out here: [ASP.NET Core 5 for Beginners](https://www.amazon.com/ASP-NET-Core-Beginners-step-step/dp/1800567189/ref=sr_1_7?dchild=1&keywords=aspnet+core+beginner&qid=1605893576&sr=8-7). Good stuff is coming! 
+- :blue_book: The book that I coauthored is out and is already available on Amazon and Packt. Check it out here: [ASP.NET Core 5 for Beginners](https://www.amazon.com/ASP-NET-Core-Beginners-step-step/dp/1800567189/ref=sr_1_7?dchild=1&keywords=aspnet+core+beginner&qid=1605893576&sr=8-7).
 - :cloud: I’m currently learning Azure and Cloud stuff 
 - :pencil: I write technical articles on my [blog](https://vmsdurano.com)
 - :bird: Follow me on twitter [@vmsdurano](https://twitter.com/vmsdurano)
@@ -17,6 +17,7 @@ I'm Vince and I work as a Software Engineer in a research and development compan
 - :tv: Subscribe to my youtube [channel](https://www.youtube.com/channel/UCuabaYm8QH4b1MAclaRp-3Q)
 
 :books: Books written:
+* [ASP.NET Core 5 for Beginners](https://www.amazon.com/ASP-NET-Core-Beginners-step-step/dp/1800567189/ref=sr_1_7?dchild=1&keywords=aspnet+core+beginner&qid=1605893576&sr=8-7)
 * [Understanding Game Application Development with Xamarin.Forms and ASP.NET](https://www.apress.com/us/book/9781484242636)
 * [Dockerizing ASP.NET Core and Blazor Applications on Mac](https://www.c-sharpcorner.com/ebooks/dockerizing-asp-net-core-and-blazor-applications-on-mac)
 * [ASP.NET MVC 5- A Beginner's Guide](https://www.c-sharpcorner.com/ebooks/asp-net-mvc-5-a-beginner-s-guide)
