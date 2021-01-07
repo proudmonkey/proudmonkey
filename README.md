@@ -9,7 +9,7 @@ I'm Vince and I work as a Software Engineer in a research and development compan
 
 
 - 🔭 I’m currently working on a new open-source project template for ASP.NET Core APIs. Stay tuned!
-- :blue_book: I’m currently working on [ASP.NET Core 5 Book](https://www.amazon.com/ASP-NET-Core-Beginners-step-step/dp/1800567189/ref=sr_1_7?dchild=1&keywords=aspnet+core+beginner&qid=1605893576&sr=8-7). Good stuff is coming! 
+- :blue_book: The book that I coauthored is out and is already available on Amazon and Packt. Check it out here: [ASP.NET Core 5 for Beginners](https://www.amazon.com/ASP-NET-Core-Beginners-step-step/dp/1800567189/ref=sr_1_7?dchild=1&keywords=aspnet+core+beginner&qid=1605893576&sr=8-7). Good stuff is coming! 
 - :cloud: I’m currently learning Azure and Cloud stuff 
 - :pencil: I write technical articles on my [blog](https://vmsdurano.com)
 - :bird: Follow me on twitter [@vmsdurano](https://twitter.com/vmsdurano)
