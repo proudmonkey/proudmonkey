@@ -13,7 +13,6 @@ I'm Vince and I work as a Software Engineer in a research and development compan
 - :cloud: I’m currently learning Azure and Cloud stuff. 
 - :bird: Follow me on twitter [@vmsdurano](https://twitter.com/vmsdurano)
 - :link: Let's connect on [linkedin](https://www.linkedin.com/in/vmsdurano/)
-- :tv: Subscribe to my youtube [channel](https://www.youtube.com/channel/UCuabaYm8QH4b1MAclaRp-3Q)
 - :school: I'm an All-Star member at [Microsoft ASP.NET forums](https://forums.asp.net/members/vinz.aspx) (100k+ rep), Legend member at [CodeProject](https://www.codeproject.com/Members/ProudMonkey) (72k+ rep) and Platinum member at [C# Corner](https://www.c-sharpcorner.com/members/vincent-maverick-durano) (15k+ rep)
 
 :books: Books written:
