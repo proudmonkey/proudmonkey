@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Vince and I work as a Solutions Architect. I’m very passionate about learning new technologies and ideas, I enjoy tackling challenges and sharing what I learned in the technical community through writing articles, books and answering to forums. I have over 15 years of software engineering experience - years of making mistakes and learning from them. 11-time Microsoft MVP, 5-time C# Corner MVP, CodeProject MVP, MVA, MVA, OSS Contributor, Microsoft Influencer, DZone MVB and a regular contributor at various online technical communities.
+I'm Vince and I work as a Solutions Architect. I’m very passionate about learning new technologies and ideas, I enjoy tackling challenges and sharing what I learned in the technical community through writing articles, books and answering to forums. I have over 18 years of software engineering experience - years of making mistakes and learning from them. 11-time Microsoft MVP, 5-time C# Corner MVP, CodeProject MVP, MVA, MVA, OSS Contributor, Microsoft Influencer, DZone MVB and a regular contributor at various online technical communities.
 
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/4025491">Microsoft MVP</a> |
 <a href="https://www.codeproject.com/Members/ProudMonkey">CodeProject MVP</a> |
