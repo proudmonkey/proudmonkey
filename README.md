@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm Vince and I work as a Solutions Architect. I’m very passionate about learning new technologies and ideas, I enjoy tackling challenges and sharing what I learned in the technical community through writing articles, books and answering to forums. I have over 15 years of software engineering experience - years of making mistakes and learning from them. 11-time Microsoft MVP, 5-time C# Corner MVP, CodeProject MVP, MVA, MVA, OSS Contributor, Microsoft Influencer, DZone MVB and a regular contributor at various online technical communities.
 
-<a href="https://mvp.microsoft.com/en-us/PublicProfile/4025491">Microsoft MVP</a> 
-<a href="https://www.codeproject.com/Members/ProudMonkey">CodeProject MVP</a> 
-<a href="https://www.codeproject.com/Members/ProudMonkey">CodeProject MVA</a> 
-<a href="https://www.codeproject.com/Members/ProudMonkey">CodeProject MVE</a>
+<a href="https://mvp.microsoft.com/en-us/PublicProfile/4025491">Microsoft MVP</a> |
+<a href="https://www.codeproject.com/Members/ProudMonkey">CodeProject MVP</a> |
+<a href="https://www.codeproject.com/Members/ProudMonkey">CodeProject MVA</a> |
+<a href="https://www.codeproject.com/Members/ProudMonkey">CodeProject MVE</a> |
 <a href="https://www.c-sharpcorner.com/members/vincent-maverick-durano">CsharpCorner MVP </a>
 
 - :pencil: I write technical articles related to ASP.NET CORE, .NET 5 and Azure on my [blog](https://vmsdurano.com). Feel free to [subscribe](https://vmsdurano.com/#subscribe) and get the latest posts delivered right to your inbox!
