@@ -1,11 +1,11 @@
 ### Hi there 👋
 I'm Vince and I work as a Solutions Architect. I’m very passionate about learning new technologies and ideas, I enjoy tackling challenges and sharing what I learned in the technical community through writing articles, books and answering to forums. I have over 15 years of software engineering experience - years of making mistakes and learning from them. 11-time Microsoft MVP, 5-time C# Corner MVP, CodeProject MVP, MVA, MVA, OSS Contributor, Microsoft Influencer, DZone MVB and a regular contributor at various online technical communities.
 
-<a href="https://mvp.microsoft.com/en-us/PublicProfile/4025491"><img alt="MVP logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/common/MVP_Logo_Avatar_Preferred_Cyan300_CMYK_300ppi.png" width="60" height="60"></a> 
-<a href="https://www.codeproject.com/Members/ProudMonkey"><img alt="CPMVP logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/common/icn-MVP-64.png" /> </a> 
-<a href="https://www.codeproject.com/Members/ProudMonkey"><img alt="CPMVA logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/Common/icn-MVA-64.png" /> </a> 
-<a href="https://www.codeproject.com/Members/ProudMonkey"><img alt="CPMVE logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/Common/icn-MVE-64.png" /> 
-<a href="https://www.c-sharpcorner.com/members/vincent-maverick-durano"><img alt="CSHARPCORNER logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/common/CSharpCornerMVP.png" width="90" height="60" /> </a> <img alt="NETFOUNDATION logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/common/1200px-.NET_Foundation_Logo.svg.png" width="60" height="60p" /> <a href="https://vmsdurano.com"><img alt="PROUDMONKEY logo" src="https://proudmonkeystorage.blob.core.windows.net/cdn/common/proud_monkey_square.png" width="60" height="60" /> </a>
+<a href="https://mvp.microsoft.com/en-us/PublicProfile/4025491">Microsoft MVP</a> 
+<a href="https://www.codeproject.com/Members/ProudMonkey">CodeProject MVP</a> 
+<a href="https://www.codeproject.com/Members/ProudMonkey">CodeProject MVA</a> 
+<a href="https://www.codeproject.com/Members/ProudMonkey">CodeProject MVE</a>
+<a href="https://www.c-sharpcorner.com/members/vincent-maverick-durano">CsharpCorner MVP </a>
 
 - :pencil: I write technical articles related to ASP.NET CORE, .NET 5 and Azure on my [blog](https://vmsdurano.com). Feel free to [subscribe](https://vmsdurano.com/#subscribe) and get the latest posts delivered right to your inbox!
 - 🔭 I’m currently working on a new open-source project template for ASP.NET Core APIs. Stay tuned!
